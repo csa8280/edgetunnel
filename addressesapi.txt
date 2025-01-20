@@ -1,9 +1,9 @@
-cf.877774.xyz:443#由dzh优选
-ct.877774.xyz:443#电信优选🇭🇰
-cmcc.877774.xyz:443#移动优选🇭🇰
-cu.877774.xyz:443#联通优选🇭🇰
-www.jsdrtzn.com:443#cf优选🇭🇰
-www.meifuchem.com:443#cf优选🇭🇰
+cf.877774.xyz:443#由dzh优选，自动
+ct.877774.xyz:443#电信优选
+cmcc.877774.xyz:443#移动优选
+cu.877774.xyz:443#联通优选
+www.jsdrtzn.com:443#cf优选
+www.meifuchem.com:443#cf优选
 8.210.69.31:443#香港1🇭🇰
 8.218.73.41:443#香港2🇭🇰
 104.18.121.24#CF-566.98MB/s
